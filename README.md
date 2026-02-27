@@ -12,14 +12,12 @@
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and                         social.
                      I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
             </strong>
-               
-            
-        </p>
+       </p>
         
-        <br/>
+    
         
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- :University: I am a `Lecturer` at [Faculty of Computer Science ](https://www.bbsul.edu.pk/) at [Benazir Bhutto Shaheed University, Lyari, Karachi](https://www.bbsul.edu.pk/) 
+- :university: I am a `Full Cooperative Teacher` at [Faculty of Computer Science ](https://www.bbsul.edu.pk/) at [Benazir Bhutto Shaheed University, Lyari, Karachi](https://www.bbsul.edu.pk/) 
 - :technologist: I love using Software as a solution for every Problem.
 - :computer: I am a competitive programmer at `Leetcode`, 'HackerRank' and `Google Contests`.
 - :nerd_face: Always `learning new things`.
