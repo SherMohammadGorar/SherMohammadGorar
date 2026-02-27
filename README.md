@@ -10,15 +10,16 @@
                 Computer Science Lecturer, Full Stack Web Developer, Problem Solver, and Open-Source Enthusiast.<br><br>
                 I specialize in Full Stack Web Development, and I have experience working with ReactJS, NextJS with Typescript, and NestJS. Good at Algorithms, Data Structures,                         Database Systems, Object-Oriented Programming, Design Patterns, and problem-solving skills.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and                         social.
+                     I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
             </strong>
                
-             I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+            
         </p>
-          <img src = "https://github.com/SherMohammadGorar/SherMohammadGorar/blob/main/connections.gif?raw=true" >
+        
         <br/>
         
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<!-- :school: I am a `Junior` at [Faculty of Computer Science ](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/) -->
+- :University: I am a `Lecturer` at [Faculty of Computer Science ](https://www.bbsul.edu.pk/) at [Benazir Bhutto Shaheed University, Lyari, Karachi](https://www.bbsul.edu.pk/) 
 - :technologist: I love using Software as a solution for every Problem.
 - :computer: I am a competitive programmer at `Leetcode`, 'HackerRank' and `Google Contests`.
 - :nerd_face: Always `learning new things`.
