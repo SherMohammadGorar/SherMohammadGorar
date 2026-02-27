@@ -22,6 +22,7 @@
 - :computer: I am a competitive programmer at `Leetcode`, 'HackerRank' and `Google Contests`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1iYz-5hBZdx5OkT7sv1l-mEN0mV-mMWKw/view?usp=sharing).
+- :gem: I love to customise everything.
 - :boom: You can visit [MY WEBSITE]().
 <br>
 
