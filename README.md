@@ -12,8 +12,9 @@
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and                         social.
             </strong>
                
-               <picture><img src = "https://github.com/SherMohammadGorar/SherMohammadGorar/blob/main/connections.gif" width = 50px></picture> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+             I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
         </p>
+          <picture><img src = "https://github.com/SherMohammadGorar/SherMohammadGorar/blob/main/connections.gif" ></picture> 
         <br/>
         
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
