@@ -1,4 +1,4 @@
-## Hi<img src="https://github.com/SherMohammadGorar/SherMohammadGorar/blob/main/hello.gif" width="60">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Sher Mohammad Gorar
+## Hi <img src="https://github.com/SherMohammadGorar/SherMohammadGorar/blob/main/hello.gif" width="64">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Sher Mohammad Gorar
 
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
