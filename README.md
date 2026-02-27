@@ -11,10 +11,7 @@
                 I specialize in Full Stack Web Development, and I have experience working with ReactJS, NextJS with Typescript, and NestJS. Good at Algorithms, Data Structures,                         Database Systems, Object-Oriented Programming, Design Patterns, and problem-solving skills.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and                         social.
                      I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
-                   
-            </strong>
-       </p>
-        
+            
     
         
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
