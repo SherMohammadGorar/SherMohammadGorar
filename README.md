@@ -14,7 +14,7 @@
                
              I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
         </p>
-          <img src = "https://github.com/SherMohammadGorar/blob/main/connections.gif" >
+          <img src = "https://github.com/SherMohammadGorar/SherMohammadGorar/blob/main/connections.gif?raw=true" >
         <br/>
         
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
