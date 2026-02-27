@@ -2,8 +2,8 @@
 
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-<div align=center>
+ <img  align="right" src="https://github.com/SherMohammadGorar/SherMohammadGorar/blob/main/balance.gif" width="300">
+<div align=left>
         <br>
         <p>
             <strong>
@@ -11,7 +11,7 @@
                 I specialize in Full Stack Web Development, and I have experience working with ReactJS, NextJS with Typescript, and NestJS. Good at Algorithms, Data Structures,                         Database Systems, Object-Oriented Programming, Design Patterns, and problem-solving skills.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and                         social.
                      I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
-                    <img  align="right" src="https://github.com/SherMohammadGorar/SherMohammadGorar/blob/main/balance.gif" width="300">
+                   
             </strong>
        </p>
         
