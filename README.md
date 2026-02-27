@@ -17,7 +17,7 @@
     
         
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- :university: I am a `Full Cooperative Teacher` at [Faculty of Computer Science ](https://www.bbsul.edu.pk/) at [Benazir Bhutto Shaheed University, Lyari, Karachi](https://www.bbsul.edu.pk/) 
+- 🏫: I am a `Full Cooperative Teacher` at [Faculty of Computer Science ](https://www.bbsul.edu.pk/) at [Benazir Bhutto Shaheed University, Lyari, Karachi](https://www.bbsul.edu.pk/) 
 - :technologist: I love using Software as a solution for every Problem.
 - :computer: I am a competitive programmer at `Leetcode`, 'HackerRank' and `Google Contests`.
 - :nerd_face: Always `learning new things`.
